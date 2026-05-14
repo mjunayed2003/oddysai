@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "responsibleGambling": "Responsible Gambling",
+    "dashboard": "Dashboard",
+    "analyzer": "Match Analyzer",
+    "live": "Live Matches",
+    "affiliate": "Affiliate",
+    "settings": "Settings",
+    "admin": "Admin",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "getStarted": "Get started"
+  },
+  "footer": {
+    "tagline": "AI-powered sports analytics. Estimated probabilities and statistical insight — never guarantees.",
+    "disclaimer": "OddysAI is not a bookmaker. We do not accept wagers, hold customer funds, or guarantee outcomes. 18+ only.",
+    "product": "Product",
+    "legal": "Legal & Company",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "support": "Support",
+    "copyright": "© {{year}} OddysAI Analytics. AI analysis is informational only and is not financial, investment, or betting advice. 18+ only."
+  },
+  "language": {
+    "label": "Language",
+    "select": "Select language"
+  },
+  "analyzer": {
+    "title": "Match Analyzer",
+    "searchPlaceholder": "Search team or league…",
+    "loading": "Loading…",
+    "noResults": "No matches found.",
+    "scanAndAnalyze": "Scan & Analyze",
+    "signInToAnalyze": "Sign in to analyze",
+    "readyToAnalyze": "Ready to analyze this match",
+    "confidence": "Confidence",
+    "riskLevel": "Risk Level",
+    "bestMarket": "Best Market",
+    "aiSummary": "AI Summary",
+    "h2h": "Head-to-head",
+    "form": "Form analysis",
+    "tactical": "Tactical angle",
+    "homeAway": "Home / Away split",
+    "injuries": "Injuries impact",
+    "motivation": "Motivation & standings",
+    "oddsMovement": "Odds movement",
+    "missingData": "Missing data",
+    "verifiedBySportMonks": "Verified with SportMonks",
+    "realTimeAi": "Real-time AI · Verified",
+    "awaitingMarket": "Awaiting market open",
+    "lowRisk": "Stable market signal",
+    "mediumRisk": "Moderate market confidence",
+    "highRisk": "Lower-confidence market environment"
+  }
+}

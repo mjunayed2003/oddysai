@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.get_affiliate_leaderboard() FROM PUBLIC, anon, authenticated;

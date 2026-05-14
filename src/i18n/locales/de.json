@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "responsibleGambling": "Verantwortungsvolles Spielen",
+    "dashboard": "Dashboard",
+    "analyzer": "Spielanalyse",
+    "live": "Live-Spiele",
+    "affiliate": "Partnerprogramm",
+    "settings": "Einstellungen",
+    "admin": "Admin",
+    "signOut": "Abmelden"
+  },
+  "auth": {
+    "signIn": "Anmelden",
+    "getStarted": "Jetzt starten"
+  },
+  "footer": {
+    "tagline": "KI-gestützte Sportanalyse. Geschätzte Wahrscheinlichkeiten und verifizierte Statistiken — keine Erfolgsgarantie.",
+    "disclaimer": "OddysAI ist kein Buchmacher. Wir nehmen keine Wetten an, verwahren keine Kundengelder und garantieren keine Ergebnisse. Nur für Personen ab 18 Jahren.",
+    "product": "Produkt",
+    "legal": "Rechtliches & Unternehmen",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "contact": "Kontakt",
+    "support": "Support",
+    "copyright": "© {{year}} OddysAI Analytics. KI-Analysen dienen ausschließlich Informationszwecken und stellen keine Finanz-, Anlage- oder Wettberatung dar. Nur für Personen ab 18 Jahren."
+  },
+  "language": {
+    "label": "Sprache",
+    "select": "Sprache auswählen"
+  },
+  "analyzer": {
+    "title": "Spielanalyse",
+    "searchPlaceholder": "Team oder Liga suchen…",
+    "loading": "Wird geladen…",
+    "noResults": "Keine Spiele gefunden.",
+    "scanAndAnalyze": "Analyse starten",
+    "signInToAnalyze": "Zum Analysieren anmelden",
+    "readyToAnalyze": "Bereit für die Analyse dieses Spiels",
+    "confidence": "Modellvertrauen",
+    "riskLevel": "Risikostufe",
+    "bestMarket": "Top-Markt",
+    "aiSummary": "KI-Zusammenfassung",
+    "h2h": "Direkter Vergleich",
+    "form": "Aktuelle Form",
+    "tactical": "Taktische Einschätzung",
+    "homeAway": "Heim / Auswärts",
+    "injuries": "Verletzungen & Auswirkungen",
+    "motivation": "Motivation & Tabellenlage",
+    "oddsMovement": "Quotenbewegung",
+    "missingData": "Fehlende Daten",
+    "verifiedBySportMonks": "Verifiziert durch SportMonks",
+    "realTimeAi": "KI in Echtzeit · Verifiziert",
+    "awaitingMarket": "Markt noch nicht eröffnet",
+    "lowRisk": "Stabiles Marktsignal",
+    "mediumRisk": "Solide Marktabdeckung",
+    "highRisk": "Marktumfeld mit eingeschränkter Abdeckung"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "responsibleGambling": "Juego Responsable",
+    "dashboard": "Panel",
+    "analyzer": "Análisis de Partido",
+    "live": "Partidos en Directo",
+    "affiliate": "Programa de Afiliados",
+    "settings": "Configuración",
+    "admin": "Administración",
+    "signOut": "Cerrar sesión"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "getStarted": "Comenzar ahora"
+  },
+  "footer": {
+    "tagline": "Análisis deportivo impulsado por inteligencia artificial. Probabilidades estimadas y estadísticas verificadas — sin garantías de resultado.",
+    "disclaimer": "OddysAI no es una casa de apuestas. No aceptamos apuestas, no custodiamos fondos de clientes ni garantizamos resultados. Servicio reservado a personas mayores de 18 años.",
+    "product": "Producto",
+    "legal": "Legal y Empresa",
+    "terms": "Términos del Servicio",
+    "privacy": "Política de Privacidad",
+    "contact": "Contacto",
+    "support": "Soporte",
+    "copyright": "© {{year}} OddysAI Analytics. El análisis de IA se ofrece únicamente con fines informativos y no constituye asesoramiento financiero, de inversión ni de apuestas. Servicio reservado a personas mayores de 18 años."
+  },
+  "language": {
+    "label": "Idioma",
+    "select": "Seleccionar idioma"
+  },
+  "analyzer": {
+    "title": "Análisis de Partido",
+    "searchPlaceholder": "Buscar equipo o liga…",
+    "loading": "Cargando…",
+    "noResults": "No se encontraron partidos.",
+    "scanAndAnalyze": "Iniciar análisis",
+    "signInToAnalyze": "Inicia sesión para analizar",
+    "readyToAnalyze": "Listo para analizar este partido",
+    "confidence": "Confianza del modelo",
+    "riskLevel": "Nivel de Riesgo",
+    "bestMarket": "Mercado Principal",
+    "aiSummary": "Resumen de IA",
+    "h2h": "Enfrentamientos directos",
+    "form": "Forma reciente",
+    "tactical": "Lectura táctica",
+    "homeAway": "Local / Visitante",
+    "injuries": "Lesiones e impacto",
+    "motivation": "Motivación y Clasificación",
+    "oddsMovement": "Movimiento de cuotas",
+    "missingData": "Datos faltantes",
+    "verifiedBySportMonks": "Verificado por SportMonks",
+    "realTimeAi": "IA en tiempo real · Verificada",
+    "awaitingMarket": "A la espera de apertura del mercado",
+    "lowRisk": "Señal de mercado estable",
+    "mediumRisk": "Cobertura de mercado sólida",
+    "highRisk": "Entorno de mercado con cobertura limitada"
+  }
+}

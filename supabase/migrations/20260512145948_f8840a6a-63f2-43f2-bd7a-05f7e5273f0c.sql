@@ -1,0 +1,1 @@
+UPDATE public.email_send_state SET auth_email_ttl_minutes = 60, send_delay_ms = 500, updated_at = now() WHERE id = 1;

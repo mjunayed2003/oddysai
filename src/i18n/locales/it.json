@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "responsibleGambling": "Gioco Responsabile",
+    "dashboard": "Dashboard",
+    "analyzer": "Analisi Partita",
+    "live": "Partite Live",
+    "affiliate": "Programma Affiliati",
+    "settings": "Impostazioni",
+    "admin": "Admin",
+    "signOut": "Esci"
+  },
+  "auth": {
+    "signIn": "Accedi",
+    "getStarted": "Inizia ora"
+  },
+  "footer": {
+    "tagline": "Analisi sportiva basata su intelligenza artificiale. Probabilità stimate e statistiche verificate — nessuna garanzia di risultato.",
+    "disclaimer": "OddysAI non è un bookmaker. Non accettiamo scommesse, non deteniamo fondi dei clienti e non garantiamo alcun risultato. Riservato esclusivamente a maggiorenni 18+.",
+    "product": "Prodotto",
+    "legal": "Legale & Azienda",
+    "terms": "Termini di Servizio",
+    "privacy": "Informativa sulla Privacy",
+    "contact": "Contatti",
+    "support": "Supporto",
+    "copyright": "© {{year}} OddysAI Analytics. L'analisi AI è fornita esclusivamente a scopo informativo e non costituisce consulenza finanziaria, di investimento o di scommesse. Riservato esclusivamente a maggiorenni 18+."
+  },
+  "language": {
+    "label": "Lingua",
+    "select": "Seleziona la lingua"
+  },
+  "analyzer": {
+    "title": "Analisi Partita",
+    "searchPlaceholder": "Cerca squadra o campionato…",
+    "loading": "Caricamento…",
+    "noResults": "Nessuna partita trovata.",
+    "scanAndAnalyze": "Avvia l'analisi",
+    "signInToAnalyze": "Accedi per analizzare",
+    "readyToAnalyze": "Pronto per analizzare questa partita",
+    "confidence": "Fiducia del modello",
+    "riskLevel": "Livello di Rischio",
+    "bestMarket": "Mercato Principale",
+    "aiSummary": "Sintesi AI",
+    "h2h": "Scontri diretti",
+    "form": "Forma recente",
+    "tactical": "Lettura tattica",
+    "homeAway": "Casa / Trasferta",
+    "injuries": "Infortuni e impatto",
+    "motivation": "Motivazione e Classifica",
+    "oddsMovement": "Movimento quote",
+    "missingData": "Dati mancanti",
+    "verifiedBySportMonks": "Verificato da SportMonks",
+    "realTimeAi": "AI in tempo reale · Verificata",
+    "awaitingMarket": "In attesa di apertura del mercato",
+    "lowRisk": "Segnale di mercato stabile",
+    "mediumRisk": "Copertura di mercato solida",
+    "highRisk": "Contesto di mercato con copertura limitata"
+  }
+}
